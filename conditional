@@ -1,0 +1,6 @@
+var food = "apple";
+
+if(food == "apple") {
+	
+alert("we ate some fruit and specifically an apple");
+}
